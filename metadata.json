@@ -1,0 +1,8 @@
+{
+  "name": "HRMS Portal - Corporate Employee Self-Service",
+  "description": "Professional enterprise Human Resource Management System with employee self-service, attendance, leave approval workflows, payroll, work plans, job opportunities, and organization directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
